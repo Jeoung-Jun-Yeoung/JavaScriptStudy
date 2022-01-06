@@ -1,4 +1,4 @@
-console.log("my" + "car");
+console.log("jun" + "babo");
 console.log("1" + 2);
 
 // 문자열 붙이기에서 문자 + 숫자는 숫자가 문자로 치환되어 연산된다.
